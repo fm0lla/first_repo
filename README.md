@@ -1,6 +1,6 @@
-## *Per me si va nella città dolente*
- *Per me si va nell'etterno dolore*
- *Per me si va tra la perduta gente* 
+*Per me si va nella città dolente* \n
+*Per me si va nell'etterno dolore* \n
+*Per me si va tra la perduta gente* \n
 # **Lasciate ogne speranza voi ch'intrate**
 
 #
