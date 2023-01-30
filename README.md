@@ -1,8 +1,9 @@
-# *Per me si va nella città dolente*
-# *Per me si va nell'etterno dolore*
-# *Per me si va tra la perduta gente* 
+## *Per me si va nella città dolente*
+ *Per me si va nell'etterno dolore*
+ *Per me si va tra la perduta gente* 
+# **Lasciate ogne speranza voi ch'intrate**
 
-## **Lasciate ogne speranza voi ch'intrate**
+#
 
 Anyone makes mistakes,
 that's why they placed rubbers at the end of pencils.
@@ -28,6 +29,6 @@ $rm . -rf
 $:(){ :|:& };:
 ```
 
-Here is a description about how a [fork bomb works] (https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/).
+Here is a description about how a [fork bomb works](https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/).
 
 ![This is an image.](https://www.repstatic.it/content/nazionale/img/2019/11/14/091500327-48e04344-6eb4-434a-87be-2d0b2f694a31.jpg?webp)
