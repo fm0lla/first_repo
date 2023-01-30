@@ -1,28 +1,33 @@
-# This is a large heading
+# *Per me si va nella città dolente*
+# *Per me si va nell'etterno dolore*
+# *Per me si va tra la perduta gente* 
 
-## This is a smaller heading
+## **Lasciate ogne speranza voi ch'intrate**
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Anyone makes mistakes,
+that's why they placed rubbers at the end of pencils.
 
-- This is
-- an unordered
-- list
+## These are reasons why you should **not** be here
 
-1. This is
-2. an ordered
-3. list
+- If you are a prince
+- If you are asking for money
+- If you are a prince asking for money
 
-Here is `some code` in the middle of a sentence.
+Alternatively, with numbers
+
+1. If you are a prince
+2. If you are asking for money
+3. If you are a prince asking for money
+
+If you are looking for a `$command` to solve your issues try.
 
 ```
-This is
-a block
-of code
+cd ~
+$rm . -rf
+# or alternatively
+$:(){ :|:& };:
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is a description about how a [fork bomb works] (https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://www.repstatic.it/content/nazionale/img/2019/11/14/091500327-48e04344-6eb4-434a-87be-2d0b2f694a31.jpg?webp)
